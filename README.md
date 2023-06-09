@@ -1,4 +1,4 @@
-## Histogram and Histogram Equalization of an image
+## Ex-4   Histogram and Histogram Equalization of an image
 
 ### Aim:
 

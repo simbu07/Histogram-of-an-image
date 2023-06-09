@@ -1,14 +1,14 @@
-# Histogram and Histogram Equalization of an image
+## Histogram and Histogram Equalization of an image
 
-## Aim:
+### Aim:
 
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
-## Software Required:
+### Software Required:
 
 Anaconda - Python 3.7 .
 
-## Algorithm:
+### Algorithm:
 
 ### Step 1:
 
@@ -30,7 +30,7 @@ Equalize the grayscale image using the in-built function cv2.equalizeHist().
 
 Print the original and equalized image using cv2.imshow() and end the program.
 
-## Program:
+### Program:
 
 ```python
 
@@ -102,7 +102,7 @@ cv2.destroyAllWindows()
 
 
 
-## Output:
+### Output:
 
 ### Input Grayscale Image and Color Image:
 
@@ -123,7 +123,7 @@ cv2.destroyAllWindows()
 ![o4](https://user-images.githubusercontent.com/94525786/230705836-d961f181-51b3-4c68-87d0-aae116a76fd7.png)
 
 
-## Result: 
+### Result: 
 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
 
